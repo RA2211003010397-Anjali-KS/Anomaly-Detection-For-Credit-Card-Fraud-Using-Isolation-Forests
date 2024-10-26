@@ -38,5 +38,5 @@ The project utilizes the publicly available credit card transactions dataset, wh
 
 ## Results
 
-The effectiveness of each algorithm is compared based on metrics like accuracy, precision, recall, and F1 score. A bar graph visualizes the performance of the different algorithms, making it easy to identify the best-performing model for credit card fraud detection.
+The effectiveness of each algorithm is compared based on metrics like accuracy, precision, recall, and F1 score.
 
